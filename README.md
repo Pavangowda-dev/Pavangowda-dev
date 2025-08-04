@@ -1,5 +1,3 @@
-💫 About Me<br>
-
 👋 Hi, I’m Pavan! <br>
 I’m a passionate AI/ML enthusiast and full-stack web developer, always exploring how technology can solve real-world problems.
 
