@@ -1,2 +1,9 @@
-# 💫 About Me:
-👋 Hi there, I'm Pavan!<br>I'm a passionate AI enthusiast and developer always exploring new technologies. Currently, I’m diving deep into Python, Machine Learning, and AI development to build intelligent, user-friendly solutions. I enjoy working on innovative projects that push the boundaries of technology and problem-solving.
+💫 About Me
+👋 Hi, I’m Pavan!
+I’m a passionate AI/ML enthusiast and full-stack web developer, always exploring how technology can solve real-world problems.
+
+Currently diving deep into Python, Machine Learning, and AI-driven development, I also specialize in building fast, modern, and user-friendly websites using Next.js and other cutting-edge tools.
+
+As a freelancer, I love collaborating with small businesses and startups — helping them build their digital presence through custom-coded solutions tailored to their needs.
+
+🔧 Always learning. Always building. Always improving.
